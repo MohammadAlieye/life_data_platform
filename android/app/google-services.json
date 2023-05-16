@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148141734471",
+    "project_id": "lifedata-9ba3e",
+    "storage_bucket": "lifedata-9ba3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148141734471:android:e8aeccdf991cfdbaad8f62",
+        "android_client_info": {
+          "package_name": "com.example.life_data_platfrom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148141734471-q5k5v4abvv4tt2226ir6fr5k0iq160k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9t2SGZyeBPQjGgDXKyaeDxmy74-XRRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148141734471-q5k5v4abvv4tt2226ir6fr5k0iq160k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
